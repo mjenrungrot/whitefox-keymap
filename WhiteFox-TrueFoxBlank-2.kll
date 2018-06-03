@@ -1,0 +1,20 @@
+Variant = "truefox";
+Generator = "KIICONF 0.2";
+Base = "TheTrueFoxBase";
+Date = "2016-05-30";
+KLL = "0.3c";
+Author = "HaaTa (Jacob Alexander) 2015";
+Version = "0.2";
+Name = "WhiteFox";
+Layout = "TrueFoxBlank";
+
+U"1" : CONS"MUTE";
+U"2" : CONS"VOLUMEDOWN";
+U"3" : CONS"VOLUMEUP";
+U"5" : CONS"REWIND";
+U"6" : CONS"PAUSEPLAY";
+U"7" : CONS"FASTFORWARD";
+U"PRINTSCREEN" : U"HASH";
+
+
+
